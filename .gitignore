@@ -1,0 +1,4 @@
+examples/
+work/
+*.zip
+__pycache__/
